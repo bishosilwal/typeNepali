@@ -1,2 +1,2 @@
 # typeNepali
-. java base nepali keyboard which support many nepali character to type
+. java base nepali keyboard with gui interface which support many nepali character .
